@@ -285,7 +285,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [RSS Social Analyzer](https://chrome.google.com/webstore/detail/rss-social-analyzer/ncmajlpbfckecekfamgfkmckbpihjfdn?hl=en)
 * [SmashFuse](http://smashfuse.com)
 * [SocialBakers](http://www.socialbakers.com)
-* [SociaBlade](http://socialblade.com)
+* [NoxInfluencer](https://www.noxinfluencer.com)
 * [Social DownORNot](http://social.downornot.com)
 * [Social Mention](http://socialmention.com)
 * [Social Searcher](http://www.social-searcher.com)
